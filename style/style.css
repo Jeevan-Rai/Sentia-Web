@@ -1,3 +1,14 @@
-.navitem1 {
-    float: right;
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.logo{
+    width:5%;
+}
+
+@media(min-width:987px) {
+    .logo {
+        width: 10%;
+    }
 }
